@@ -1,7 +1,5 @@
 ### Hi there 👋
 我是19级信息安全（1）班的刘煜
-<!--
-**HonestBanana/HonestBanana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on information security.
 - 🌱 I’m currently learning software engineering.
